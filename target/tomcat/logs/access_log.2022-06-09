@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:28 +0800] "GET /brand-case HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:28 +0800] "GET /brand-case/ HTTP/1.1" 404 973 http-bio-8080-exec-3 9
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:28 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:31 +0800] "GET /brand-case/brand.html HTTP/1.1" 200 19586 http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:34 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 799 http-bio-8080-exec-6 363
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:41 +0800] "POST /brand-case/brand/update HTTP/1.1" 200 7 http-bio-8080-exec-7 30
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:41 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 799 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:44 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=2&pageSize=5 HTTP/1.1" 200 785 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:23:47 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 799 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [09/Jun/2022:14:24:04 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 669 http-bio-8080-exec-10 3

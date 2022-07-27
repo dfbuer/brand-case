@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:51:23 +0800] "GET /brand-case HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:51:23 +0800] "GET /brand-case/ HTTP/1.1" 404 973 http-bio-80-exec-3 7
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:51:47 +0800] "GET / HTTP/1.1" 404 951 http-bio-80-exec-1 29
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:52:56 +0800] "GET / HTTP/1.1" 404 951 http-bio-80-exec-1 27
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:53:44 +0800] "GET /selestAll HTTP/1.1" 404 969 http-bio-80-exec-3 1
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:54:03 +0800] "GET /brand/selestAll HTTP/1.1" 200 - http-bio-80-exec-4 173
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:54:56 +0800] "GET / HTTP/1.1" 404 951 http-bio-80-exec-6 2
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:55:52 +0800] "GET /brand/brand.html HTTP/1.1" 200 - http-bio-80-exec-7 3
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:09 +0800] "GET / HTTP/1.1" 404 951 http-bio-80-exec-9 1
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:20 +0800] "GET /brand.html HTTP/1.1" 200 19584 http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:21 +0800] "GET /js/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-80-exec-3 1
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:21 +0800] "GET /js/vue.js HTTP/1.1" 200 341462 http-bio-80-exec-10 4
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:21 +0800] "GET /element-ui/lib/theme-chalk/index.css HTTP/1.1" 200 232460 http-bio-80-exec-8 4
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:21 +0800] "GET /element-ui/lib/index.js HTTP/1.1" 200 567058 http-bio-80-exec-2 5
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:56:21 +0800] "GET /element-ui/lib/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200 http-bio-80-exec-7 2
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:57:55 +0800] "GET /brand/selectAll HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Jul/2022:17:57:56 +0800] "GET /brand/selectAll/ HTTP/1.1" 404 983 http-bio-80-exec-3 9
